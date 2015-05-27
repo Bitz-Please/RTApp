@@ -20,7 +20,7 @@
     <option name="pathToJarWithRules" value="" />
   </component>
   <component name="IdProvider" IDEtalkID="8C39B4062FE2136E2C805F8B3D0694D0" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
   <component name="SuppressionsComponent">
     <option name="suppComments" value="[]" />
   </component>
