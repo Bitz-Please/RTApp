@@ -43,6 +43,8 @@ public class Person3 {
 	 */
 	private String calc(String input) {
 	  //Person 3 put your implementation here
-	  return null;
+	  return input;
+
+
 	}
 }
