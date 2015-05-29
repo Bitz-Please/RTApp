@@ -1,0 +1,25 @@
+apply plugin: 'java'
+
+version = '1.0'
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile files('lib/resources.jar')
+}
+
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'Sadler.M2',
+                'Implementation-Version': version,
+                'Implementation-Vendor': 'Joe Sadler',
+                'Main-Class': 'M2/src/main/java/edu.gatech.oad.antlab.pkg1.AntLabMain',
+                'Class-Path': 'lib/resources.jar'
+    }
+}
+
+defaultTasks 'build'
