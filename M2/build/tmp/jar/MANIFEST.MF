@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: sparks.m2
+Implementation-Version: 1.0
+Implementation-Vendor: Sparks Technical Labs Ltd. Inc. Corps
+Main-Class: edu.gatech.oad.antlab.pkg1.AntLabMain
+Class-Path: ../../lib/resources.jar
+
