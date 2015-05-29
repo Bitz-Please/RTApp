@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: megi.m2
+Implementation-Version: 1.0
+Implementation-Vendor: Megi Ltd. Inc. Corps
+Main-Class: edu.gatech.oad.antlab.pkg1.AntLabMain
+Class-Path: ../../lib/resources.jar
+
