@@ -17,8 +17,8 @@ jar {
         attributes 'Implementation-Title': 'Sadler.M2',
                 'Implementation-Version': version,
                 'Implementation-Vendor': 'Joe Sadler',
-                'Main-Class': 'M2/src/main/java/edu.gatech.oad.antlab.pkg1.AntLabMain',
-                'Class-Path': 'lib/resources.jar'
+                'Main-Class': 'edu.gatech.oad.antlab.pkg1.AntLabMain',
+                'Class-Path': '../../lib/resources.jar'
     }
 }
 
