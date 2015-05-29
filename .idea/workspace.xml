@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0ce8527-7d95-4330-9fff-ea6e46d55aaf" name="Default" comment="Added gradle portion&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/tjlo3.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+    <list default="true" id="b0ce8527-7d95-4330-9fff-ea6e46d55aaf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RTApp.iws" />
@@ -195,6 +193,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tleeo_000\Desktop\gt files\CS 2340\GitHub\RTApp" />
       <recent name="C:\Users\tleeo_000\Desktop\gt files\CS 2340\GitHub\RTApp\M2" />
     </key>
   </component>
@@ -453,12 +452,25 @@
       <workItem from="1432772879642" duration="58000" />
       <workItem from="1432773050383" duration="704000" />
       <workItem from="1432855617923" duration="112000" />
-      <workItem from="1432927727364" duration="1217000" />
+      <workItem from="1432927727364" duration="2097000" />
     </task>
+    <task id="LOCAL-00001" summary="Added gradle portion&#10;">
+      <created>1432928961204</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432928961204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change readme location">
+      <created>1432929103879</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1432929103879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3056000" />
+    <option name="totallyTimeSpent" value="3936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="699" extended-state="6" />
@@ -471,7 +483,7 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -511,7 +523,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Added gradle portion&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gradle portion&#10;" />
+    <MESSAGE value="Change readme location" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change readme location" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
