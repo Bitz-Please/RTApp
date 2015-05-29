@@ -30,11 +30,16 @@ public class Person6 {
 	 * @return the modified string
 	 */
 	private String calc(String input) {
-	  //Person 6 put your implementation here
-	  return null;
-	}
-	
-	/**
+        StringBuilder result = new StringBuilder(input);
+        char a = input.charAt(0);
+        char b = input.charAt(input.length() - 1);
+        result.setCharAt(0, b);
+        result.setCharAt(input.length() - 1, a);
+        return result.toString();
+    }
+
+
+    /**
 	 * Return a string rep of this object
 	 * that varies with an input string
 	 *
