@@ -28,13 +28,13 @@ public class Person4 {
      *
      * @param input the string to be modified
      * @return the modified string
-     */
+     */ 
     private String calc(String input) {
-      StringBuilder ret = new StringBuilder();
-      for(char c: input.toCharArray()){
-        ret.append(c++);
+      String ret = "";
+      for(int i = 0; i < input.length(); i++) {
+        ret = ret + ((char) (input.charAt(i) + 1));
       }
-      return ret.toString();
+      return ret;
     }
     
     /**
