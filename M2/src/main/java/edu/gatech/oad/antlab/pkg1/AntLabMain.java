@@ -94,10 +94,11 @@ import edu.gatech.oad.antlab.pkg2.*;
         
         
     }
-     
-    
+
+
     /**
-     * entry point for the program
+     * Main method to print out messages
+     * @param args Command line arguments.
      */
      public static void main(String[] args) {
         
